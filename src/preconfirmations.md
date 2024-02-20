@@ -9,10 +9,3 @@
 * [Value-Capturing Based Rollups with Based Preconfirmations](https://collective.flashbots.net/t/value-capturing-based-rollups-with-based-preconfirmations/2884)
 * [Preconfirmations Flow Exploration](https://limechain.notion.site/RFC-Preconfirmations-Flow-Exploration-30fe218a0ea0443fb6bc213da969a47d?pvs=4)
 * [State Lock Auctions: Towards Collaborative Block Building](https://ethresear.ch/t/state-lock-auctions-towards-collaborative-block-building/18558)
-
-## Ethereum Sequencing and Preconfirmations Calls
-* [Ethereum Sequencing and Preconfirmations Call #0](https://www.youtube.com/watch?v=8xFVC9T9LR4)
-* [Ethereum Sequencing & Preconfs Call #0 Notes](https://github.com/ethereum/pm/issues/955)
-* [Ethereum Sequencing and Preconfirmations Call #1](https://www.youtube.com/watch?v=2IK136vz-PM)
-* [Ethereum sequencing call #1 Presentation](https://docs.google.com/presentation/d/1v429N4jdikMIWWkcVwfjMlV2LlOXSawFCMKoBnZVDNU/edit#slide=id.p)
-* [Ethereum Sequencing & Preconfs Call #1 Notes](https://github.com/ethereum/pm/issues/956)
