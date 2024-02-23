@@ -10,3 +10,6 @@
 * [Preconfirmations Flow Exploration](https://limechain.notion.site/RFC-Preconfirmations-Flow-Exploration-30fe218a0ea0443fb6bc213da969a47d?pvs=4)
 * [State Lock Auctions: Towards Collaborative Block Building](https://ethresear.ch/t/state-lock-auctions-towards-collaborative-block-building/18558)
 * [Preconfirmations Glossary & Requirements](https://hackmd.io/@ziUBKJkEQOik4WqSGuaDdg/Sy4a_BX2p)
+
+
+See also: [Ethereum Preconfirmations and Sequencing Calls](./calls.md)
