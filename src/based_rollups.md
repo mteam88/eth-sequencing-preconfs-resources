@@ -7,3 +7,4 @@
 * [Taiko: Based Contestable Rollups](https://taiko.mirror.xyz/Z4I5ZhreGkyfdaL5I9P0Rj0DNX4zaWFmcws-0CVMJ2A)
 * [Taiko: Based Booster Rollups](https://taiko.mirror.xyz/anPjF35Mrc_xzYgOTbUmfjr_MlhE3L8ZBZIxqmz9GZ8)
 * [Taiko: L2 MEV](https://taiko.mirror.xyz/VjNjFws6OOVez5YCDMwjy4BUiDqZBHYDvcW4-JZGDkc)
+* [Unified Endgame Rollup Requirements](https://ethresear.ch/t/unified-endgame-rollup-requirements/18733)
