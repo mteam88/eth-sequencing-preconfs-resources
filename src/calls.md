@@ -11,6 +11,12 @@ A group of researchers have been discussing preconfirmations and sequencing in E
 * [Ethereum Sequencing & Preconfs Call #1 Notes](https://github.com/ethereum/pm/issues/956)
 
 ## Call 2
-*Call 2 hasn't happened yet. It is scheduled for [Feb 23, 14:00 UTC](https://savvytime.com/converter/utc-to-germany-berlin-united-kingdom-london-ny-new-york-city-ca-san-francisco-china-shanghai-japan-tokyo-australia-sydney/feb-23-2024/2-00pm)*
+* [Ethereum Sequencing & Preconfs Call #2](https://youtu.be/mAGGdPRmhsc)
+* [Ethereum Sequencing & Preconfs Call #2 Notes](https://github.com/ethereum/pm/issues/963)
 
-* [Ethereum Sequencing & Preconfs Call #2 PM](https://github.com/ethereum/pm/issues/963)
+*In call 2, various presenters took time to present concerns around based sequencing preconfirmations. See the [notes by Facundo](https://docs.google.com/document/d/1hWJU20EwQT3K3uB3GiwDsFlsK3uKuJX20noAN7ZqreA/edit#heading=h.t05ohw2s42hv) for links to slides.*
+
+## Call 3
+*Call 3 has not happened yet. It is scheduled for [March 8, 14:00 UTC](https://savvytime.com/converter/utc-to-germany-berlin-united-kingdom-london-ny-new-york-city-ca-san-francisco-china-shanghai-japan-tokyo-australia-sydney/mar-8-2024/2-00pm)*
+
+* [Ethereum Sequencing & Preconfs Call #3 PM](https://github.com/ethereum/pm/issues/969)
