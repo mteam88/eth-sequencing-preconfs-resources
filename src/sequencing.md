@@ -7,3 +7,5 @@
 * [Based Rollups and Decentralized Sequencing (Twitter Spaces wrap-up)](https://community.taiko.xyz/t/based-rollups-and-decentralized-sequencing-twitter-spaces-wrap-up/1220)
 * [The Espresso Sequencer](https://hackmd.io/@EspressoSystems/EspressoSequencer)
 * [Based Rollups with Stronger Finality & Revenue Share (WIP)](https://hackmd.io/2HHg2t-gSbyJX3M170Nigw)
+* [Based Espresso: ad-hoc shared sequencing for all L2s, from based rollups to validiums](https://hackmd.io/@EspressoSystems/BasedEspresso)
+* 
