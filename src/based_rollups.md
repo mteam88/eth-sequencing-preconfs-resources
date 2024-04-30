@@ -9,3 +9,4 @@
 * [Taiko: L2 MEV](https://taiko.mirror.xyz/VjNjFws6OOVez5YCDMwjy4BUiDqZBHYDvcW4-JZGDkc)
 * [Unified Endgame Rollup Requirements](https://ethresear.ch/t/unified-endgame-rollup-requirements/18733)
 * [Based Ticketing Rollups](https://hackmd.io/LRQPSItESPuMhUSwrB71rQ)
+* [Vanilla Based Sequencing](https://ethresear.ch/t/vanilla-based-sequencing/19379)
