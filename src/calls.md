@@ -23,3 +23,15 @@ A group of researchers have been discussing preconfirmations and sequencing in E
 ## Call 4
 * [Ethereum Sequencing & Preconfs Call #4](https://youtu.be/IsYISmTmPmQ)
 * [Ethereum Sequencing & Preconfs Call #4 Notes](https://github.com/ethereum/pm/issues/990)
+
+## Call 5
+* [Ethereum Sequencing & Preconfs Call #5](https://www.youtube.com/watch?v=8HFVnb69zUI)
+* [Ethereum Sequencing & Preconfs Call #5 Notes](https://github.com/ethereum/pm/issues/994)
+
+## Call 6
+* [Ethereum Sequencing & Preconfs Call #6](https://youtu.be/w91otDFmGpo)
+* [Ethereum Sequencing & Preconfs Call #6 Notes](https://github.com/ethereum/pm/issues/1015)
+
+## Call 7
+* [Ethereum Sequencing & Preconfs Call #7](https://youtu.be/PM2EyV72Pls)
+* [Ethereum Sequencing & Preconfs Call #7 Notes](https://github.com/ethereum/pm/issues/1035)
